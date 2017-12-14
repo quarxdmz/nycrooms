@@ -1,0 +1,193 @@
+array(5) {
+  ["width"]=>
+  int(1500)
+  ["height"]=>
+  int(1000)
+  ["file"]=>
+  string(27) "2017/11/img_0324-edit-1.jpg"
+  ["sizes"]=>
+  array(14) {
+    ["thumbnail"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-150x150.jpg"
+      ["width"]=>
+      int(150)
+      ["height"]=>
+      int(150)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["medium"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-300x200.jpg"
+      ["width"]=>
+      int(300)
+      ["height"]=>
+      int(200)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["medium_large"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-768x512.jpg"
+      ["width"]=>
+      int(768)
+      ["height"]=>
+      int(512)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["large"]=>
+    array(4) {
+      ["file"]=>
+      string(28) "img_0324-edit-1-1024x683.jpg"
+      ["width"]=>
+      int(1024)
+      ["height"]=>
+      int(683)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["post-thumbnail"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-250x220.jpg"
+      ["width"]=>
+      int(250)
+      ["height"]=>
+      int(220)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_blog_unit"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-400x242.jpg"
+      ["width"]=>
+      int(400)
+      ["height"]=>
+      int(242)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_blog_unit2"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-805x453.jpg"
+      ["width"]=>
+      int(805)
+      ["height"]=>
+      int(453)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_slider_thumb"]=>
+    array(4) {
+      ["file"]=>
+      string(26) "img_0324-edit-1-143x83.jpg"
+      ["width"]=>
+      int(143)
+      ["height"]=>
+      int(83)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_property_listings"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-400x314.jpg"
+      ["width"]=>
+      int(400)
+      ["height"]=>
+      int(314)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_property_featured"]=>
+    array(4) {
+      ["file"]=>
+      string(28) "img_0324-edit-1-1170x921.jpg"
+      ["width"]=>
+      int(1170)
+      ["height"]=>
+      int(921)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_property_listings_page"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-240x160.jpg"
+      ["width"]=>
+      int(240)
+      ["height"]=>
+      int(160)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_property_places"]=>
+    array(4) {
+      ["file"]=>
+      string(27) "img_0324-edit-1-600x456.jpg"
+      ["width"]=>
+      int(600)
+      ["height"]=>
+      int(456)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_property_full_map"]=>
+    array(4) {
+      ["file"]=>
+      string(28) "img_0324-edit-1-1500x790.jpg"
+      ["width"]=>
+      int(1500)
+      ["height"]=>
+      int(790)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+    ["wpestate_user_thumb"]=>
+    array(4) {
+      ["file"]=>
+      string(25) "img_0324-edit-1-60x60.jpg"
+      ["width"]=>
+      int(60)
+      ["height"]=>
+      int(60)
+      ["mime-type"]=>
+      string(10) "image/jpeg"
+    }
+  }
+  ["image_meta"]=>
+  array(12) {
+    ["aperture"]=>
+    string(1) "0"
+    ["credit"]=>
+    string(0) ""
+    ["camera"]=>
+    string(0) ""
+    ["caption"]=>
+    string(0) ""
+    ["created_timestamp"]=>
+    string(1) "0"
+    ["copyright"]=>
+    string(0) ""
+    ["focal_length"]=>
+    string(1) "0"
+    ["iso"]=>
+    string(1) "0"
+    ["shutter_speed"]=>
+    string(1) "0"
+    ["title"]=>
+    string(0) ""
+    ["orientation"]=>
+    string(1) "0"
+    ["keywords"]=>
+    array(0) {
+    }
+  }
+}

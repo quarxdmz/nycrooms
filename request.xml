@@ -1,0 +1,49 @@
+<request>
+	<operation>ADD</operation>
+	<bkvPropertyId>6613</bkvPropertyId>
+	<company>Rentals United AB</company>
+	<channel>Expedia</channel>
+	<commission/>
+	<channelCommission/>
+	<bookervilleCommission/>
+	<email/>
+	<firstName>Peter</firstName>
+	<lastName>Jensen</lastName>
+	<phone>+004542423636</phone>
+	<address>, ZIP:</address>
+	<city/>
+	<state/>
+	<zip/>
+	<country/>
+	<beginDate>2017-12-02</beginDate>
+	<endDate>2017-12-05</endDate>
+	<adults>4</adults>
+	<children>0</children>
+	<guestComments>Code: 5 Info: Hotel Collect Booking  Collect Payment From GuestCode: 2.1 Info: Non-SmokingCode: 1.55 Info: 3 bedsPrice breakdown:Stay date: 2017-12-02, base price: 224.00USDStay date: 2017-12-03, base price: 224.00USDStay date: 2017-12-04, base price: 224.00USDamount of taxes: 59.64 USD</guestComments>
+	<rent>672.00</rent>
+	<bookingFee>0</bookingFee>
+	<cleaningFee>125.00</cleaningFee>
+	<taxes>
+		<tax>
+			<id>1</id>
+			<label>(Insert tax name here)</label>
+			<amount>0</amount>
+		</tax>
+		<tax>
+			<id>2</id>
+			<label/>
+			<amount>0</amount>
+		</tax>
+		<tax>
+			<id>3</id>
+			<label/>
+			<amount>0</amount>
+		</tax>
+	</taxes>
+	<additionalItems/>
+	<securityDeposit>
+		<Type>Refundable</Type>
+		<Amount>300.00</Amount>
+	</securityDeposit>
+	<total>731.64</total>
+</request>
